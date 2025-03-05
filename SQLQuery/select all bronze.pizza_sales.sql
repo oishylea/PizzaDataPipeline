@@ -1,0 +1,1 @@
+SELECT * FROM bronze.pizza_sales

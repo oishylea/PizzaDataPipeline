@@ -1,0 +1,1 @@
+SELECT COUNT (*) FROM bronze.pizza_sales
